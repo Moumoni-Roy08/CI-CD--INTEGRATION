@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="3" time="0.099" timestamp="2025-02-19T07:39:47.989851+00:00" hostname="fv-az1708-776">
+        <testcase classname="test_app" name="test_home" time="0.005" />
+        <testcase classname="test_app" name="test_add" time="0.003" />
+        <testcase classname="test_app" name="test_invalid_input" time="0.002" />
+    </testsuite>
+</testsuites>
